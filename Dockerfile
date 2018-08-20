@@ -1,6 +1,6 @@
 FROM node:latest
 
-MAINTAINER Brandon <btran380@gmail.com>
+MAINTAINER Brandon <Ro>
 
 RUN npm install
 
